@@ -1,1 +1,1 @@
-print('info')
+print('info_git')
