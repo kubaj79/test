@@ -4,3 +4,5 @@ print('info_git')
 print('drugi wpis')
 print('wersja 1.1')
 print('No Name')
+print('marek')
+
